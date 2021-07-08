@@ -1,5 +1,8 @@
 # Enterprise Network Design
 
+## Description
+This project was given to me as a part of [Industrial Training undergone at BSNL](http://www.kolkata.bsnl.co.in/applications/APP_training/index.html). I received a project completion [certificate](https://drive.google.com/file/d/1TlFKC4Mj5ld0G77j592rHzBkiaipAMSS/view?usp=sharing) after successfully completeting the Online Industrial Training on Networking & Security Technology with Project from 10.05.2021 to 04.06.2021 conducted by NSCBTTC, Kalyani, BSNL.
+
 ## Problem Statement
 ```
 1. An ISP granted a block of IP address starting with 202.195.32.0/24 to an enterprise. Enterprise having 2 virtual subnet, 2 physical subnet and 4 links. Number of hosts required in different subnets are: Network A 30 host, Network B 30 host, Network C 60 host and Network D 12 host. Distribute the IP address to different subnets and links by subnetting IP block granted by ISP. Use a different IP for link between Enterprise Router and ISP Router (e.g., 200.10.10.0/30)
@@ -22,16 +25,5 @@
 ```diff
 + Cisco Packet Tracer
 + Networking Concepts
-+ Switch Configuration
-+ Routing Configuration
-+ VLAN Configuration
-+ ACL Configuration
-+ VPN Configuration
-+ IPv6 Configuration in Router
-+ Configuration of network servers and services
 ```
-
-- **BSNL Training Completion Certificate** : [Click Here](https://drive.google.com/file/d/1MlXA8-bHo6jzgNMgc0VGqdf_po96FCXx/view?usp=sharing)
-- **BSNL Project Completion Certificate** : [View Here](https://drive.google.com/file/d/1TlFKC4Mj5ld0G77j592rHzBkiaipAMSS/view?usp=sharing)
-
 ---
