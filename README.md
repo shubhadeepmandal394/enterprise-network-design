@@ -14,7 +14,7 @@ This project was given to me as a part of Online [Industrial Training](http://ww
 ```
 
 ### Solution
-<img src="https://github.com/shubhadeepmandal394/enterprise-network-design/blob/main/img/solution.png" align="center" width="800" height="450">
+<img src="https://github.com/shubhadeepmandal394/enterprise-network-design/blob/main/img/solution.png" align="center" width="600" height="300">
 
 ### How to view/run the project?
 - Enroll into [Introduction to Packet Tracer](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer) course to download the latest version of Packet Tracer. 
@@ -27,3 +27,4 @@ This project was given to me as a part of Online [Industrial Training](http://ww
 + Networking Concepts
 ```
 ---
+If it helped, then you can [buy me a coffee](https://www.buymeacoffee.com/shubhadeep394) ☕😉
