@@ -14,7 +14,8 @@
 <img src="https://github.com/shubhadeepmandal394/enterprise-network-design/blob/main/img/solution.png" align="center" width="800" height="450">
 
 ## How to view/run the project?
-Simply enroll into [Introduction to Packet Tracer](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer) course to download the latest version of Packet Tracer. [Download](https://github.com/shubhadeepmandal394/enterprise-network-design/raw/main/shubhadeep_project.pkt) the .pkt file and run the same on your local machine.
+- Enroll into [Introduction to Packet Tracer](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer) course to download the latest version of Packet Tracer. 
+- Then, [Download](https://github.com/shubhadeepmandal394/enterprise-network-design/raw/main/shubhadeep_project.pkt) the .pkt file and run the same on your local machine.
 
 ## Skills Gained
 
