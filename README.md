@@ -30,4 +30,4 @@ This project was given to me as a part of Online [Industrial Training](http://ww
 + Networking Concepts
 ```
 ---
-If it helped, then you can [buy me a coffee](https://www.buymeacoffee.com/shubhadeep394) ☕😉
+If it was of any help then consider [buying me a coffee](https://www.buymeacoffee.com/shubhadeep394) ☕😉
